@@ -6,5 +6,5 @@ member:
   discount: 2
 vehicle:
  default:
-  model: cross over dev
+  model: cross over report dev
 duration: all

@@ -6,5 +6,5 @@ member:
   discount: 4
 vehicle:
  default:
-  model: cross over default
+  model: cross over report default
 duration: all

@@ -6,5 +6,5 @@ member:
   discount: 3
 vehicle:
  default:
-  model: cross over prod
+  model: cross over repot prod
 duration: all

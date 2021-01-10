@@ -6,5 +6,5 @@ member:
   discount: 4
 vehicle:
  default:
-  model: cross over
+  model: cross over membership prod
 duration: all
