@@ -8,4 +8,4 @@ vehicle:
  default:
   model: cross over membership dev
 duration: all
-msg : this is from cloud server with update message
+msg : this is from cloud server with update message again
