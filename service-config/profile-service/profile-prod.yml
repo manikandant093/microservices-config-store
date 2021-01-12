@@ -2,7 +2,7 @@ server:
   port: 9191
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/rentDB?createDatabaseIfNOtExist=true
+    url: jdbc:mysql://localhost:3306/rentDB?createDatabaseIfNotExist=true
     username: root
     password: password
     driver-class-name: com.mysql.cj.jdbc.Driver
